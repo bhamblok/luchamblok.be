@@ -28,9 +28,6 @@
       
       {% assign articles=site.articles | where:"ref", page.ref | sort: 'lang' | reverse %}
       {% for article in articles %} <a href="{{ article.url }}" class="page-link {{ article.lang }}">{{ article.lang }}</a> {% endfor %}
-      
-      {% assign projects=site.projects | where:"ref", page.ref | sort: 'lang' | reverse %}
-      {% for project in projects %} <a href="{{ project.url }}" class="page-link {{ project.lang }}">{{ project.lang }}</a> {% endfor %}
     </nav>
 
   </div>
