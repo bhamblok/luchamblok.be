@@ -12,3 +12,5 @@ Hoofdstraat 39
 +32 468 23 24 07
 
 [luc.hamblok@telenet.be](mailto:luc.hamblok@telenet.be)
+
+<img src="/assets/DSC08551.jpg" width="550" alt="Luc Hamblok" title="Luc Hamblok" align="left"> 
