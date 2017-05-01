@@ -12,7 +12,7 @@ lang: nl
 Zijn persoonlijk universum bestaat uit vreemde personages in een zelfbedachte iconografie.  
 Oude zolders, brocante- en rommelmarkten bieden een onuitputtelijke bron van rariteiten die de fantasie van de kunstenaar voeden en die uiteindelijk veredeld weer opduiken in een nieuwe poëtische creatie.
 
-Tot 2007 heeft hij zich in het metier bekwaamd met het doorlopen van de disciplines : tekenen, olieverfschilderijen, etsen, houtsnijwerk, keramiek, modelbouw, airbrush, en encaustiek in langdurige maar ook kortere of éénmalige cursussen en workshops.
+Tot 2007 heeft hij zich in het metier bekwaamd met het doorlopen van de disciplines: tekenen, olieverfschilderijen, etsen, houtsnijwerk, keramiek, modelbouw, airbrush, en encaustiek in langdurige maar ook kortere of éénmalige cursussen en workshops.
 
 Momenteel vervolmaakt hij zich in de keramiek en het glazuren.
 
@@ -26,6 +26,6 @@ Als een alchemist gebruikt hij graag een toetsje bladgoud als finishing touch, o
 Bij het ontwerp van een nieuw werk wordt er uitgegaan van de materialen. Er wordt geselecteerd, gewikt en gewogen, uitgestald en gepast tot er een geboorte volgt, dit in tegenstelling tot de conceptuele kunst.  
 Deze kunstenaar is helaas niet de man van "het woord", hij is een ambachtsman die het werk voor zich laat spreken en de toeschouwer verwonderd meesleurt in de bizarre wereld van zijn fantasie.
 
-Zij inspiratie haalt hij uit minutieus verzamelde boekwerken (een grote bibliotheek, niet van literaire maar van doe - boeken met een keure aan illustraties). Ook uit etnografie en mythologie, van de vele oude en verre culturen. Magische ideeën worden gesprokkeld tijdens zijn wereldreizen in de vorm van foto’s en tekeningen gemaakt in talloze musea van Peru tot Cambodja. En niet te vergeten, het onuitputtelijke digitale medium: Pinterest.  
+Zijn inspiratie haalt hij uit minutieus verzamelde boekwerken (een grote bibliotheek, niet van literaire maar van doe - boeken met een keure aan illustraties). Ook uit etnografie en mythologie, van de vele oude en verre culturen. Magische ideeën worden gesprokkeld tijdens zijn wereldreizen in de vorm van foto’s en tekeningen gemaakt in talloze musea van Peru tot Cambodja. En niet te vergeten, het onuitputtelijke digitale medium: Pinterest.  
 Dit alles zwerft door de ideeën van de kunstenaar in een affiniteit met de Middeleeuwen en de Gotiek met daarbovenop zij idolen Jeroen Bosch, Dali en de surrealisten in het algemeen.
 
