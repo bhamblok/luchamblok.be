@@ -2,7 +2,8 @@
   width: 100%;
   transition: opacity 0.3s ease-in-out;
   .grid-item {
-    width: 33.33333%;
+    width: calc(33.3333333% - 6px);
+    border: 3px solid white;
     margin: 0;
     cursor: pointer;
     @include media-query($on-laptop) {
@@ -28,6 +29,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
+      transition: opacity 0.3s linear;
     }
     &:hover .title {
       opacity: 1;
