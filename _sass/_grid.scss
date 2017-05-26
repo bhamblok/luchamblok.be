@@ -7,10 +7,10 @@
     margin: 0;
     cursor: pointer;
     @include media-query($on-laptop) {
-      width: 50%;
+      width: calc(50% - 6px);
     }
     @include media-query($on-palm) {
-      width: 100%;
+      width: calc(100% - 6px);
     }
     img {
       width: 100%;
@@ -34,5 +34,58 @@
     &:hover .title {
       opacity: 1;
     }
+  }
+}
+.throbber {
+  position: absolute;
+  width: 100vw;
+  height: 70vh;
+  background: white;
+  text-align: center;
+  z-index: 999;
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+
+  .spinner {
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+    margin: 1em auto;
+    border: 0.3em solid #ddd;
+    border-top-color: #fff;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-animation: spin 1.1s infinite linear;
+    animation: spin 1.1s infinite linear;
+  }
+  @-webkit-keyframes spin {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes spin {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+}
+.loading {
+  .throbber {
+    display: flex;
+  }
+  .grid {
+    opacity: 0;
   }
 }

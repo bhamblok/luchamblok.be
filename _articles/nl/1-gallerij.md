@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Gallerij
+title: Sculpturen
 ref: gallery-page
 permalink: /
 lang: nl
@@ -8,12 +8,13 @@ lang: nl
 
 <div class="grid">
 {% for image in site.static_files %}
-  {% if image.path contains 'images/' %}
+  {% if image.path contains 'images/sculptures' %}
   {% assign title = image.path | split: '/' %}
   {% assign title = title.last | split: '.' %}
+  {% assign title = title.first | split: ' - ' %}
   <div class="grid-item">
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ title.first }}" title="{{ title.first }}" />
-    <div class="title">{{ title.first }}</div>
+    <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ title.last }}" title="{{ title.last }}" />
+    <div class="title">{{ title.last }}</div>
   </div>
   {% endif %}
 {% endfor %}
