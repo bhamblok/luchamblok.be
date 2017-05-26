@@ -6,25 +6,26 @@ permalink: /en/about
 lang: en
 ---
 
-# Luc Hamblok als kunstenaar
+# Luc Hamblok the artist
 
-<img src="/assets/luc-hamblok.jpg" alt="Luc Hamblok" title="Luc Hamblok" align="left"> Luc Hamblok, van in zijn prille kinderjaren nooit ver weg van tekenpotloden, pennen en papier, blijft gefascineerd door het observeren en het veelal surrealistisch weergeven van ongeveer alles wat zich bevindt tussen insecten en kathedralen.  
-Zijn persoonlijk universum bestaat uit vreemde personages in een zelfbedachte iconografie.  
-Oude zolders, brocante- en rommelmarkten bieden een onuitputtelijke bron van rariteiten die de fantasie van de kunstenaar voeden en die uiteindelijk veredeld weer opduiken in een nieuwe poëtische creatie.
+<img src="/assets/luc-hamblok.jpg" alt="Luc Hamblok" title="Luc Hamblok" align="left"> Even from his early childhood he explored reality with pens, pencils and paper.
+He remains fascinated observing and expressing in a surrealistic way almost everything in between insects and cathedrals.
+Strange characters in a personal iconography form art of his universe.
+His favorite ingredients are skulls, bones and recycling materials.
+In combination with ceramics they get a second life in a magic realistic atmosphere with affinity for gothic.
+He finds curiosities on attics and antique markets, an inexhaustible source of rarities that fed the fantasy of the artist. They are born again as an improved, poetic creation.
 
-Tot 2007 heeft hij zich in het metier bekwaamd met het doorlopen van de disciplines: tekenen, olieverfschilderijen, etsen, houtsnijwerk, keramiek, modelbouw, airbrush, en encaustiek in langdurige maar ook kortere of éénmalige cursussen en workshops.
+Before 2007 he qualified himself in different disciplines: drawing, oil painting, etching, woodcutting, and woodturning, ceramics, modelbuilding, some airbrush and encaustic in sometimes long, sometimes brief courses.
+All this has culminated since 2007 in his actual work: he finally found his destination : assemblage and mixed media. He uses all kinds of materials from skulls of cats, deer, bucks, beachcomber items, bicycle brakes, lead, plumes ...
+All these materials are stocked in stacks and very accurately he can locate them.
+If there is a missing link, he elaborates that item with ceramics achieving this way a coherent assemblage.
+Again and again there must be thought about the frame and the dismounting of the artwork. Even if its fragile, the construction must be transportable in a compact way. That is the difficult challenge.
 
-Momenteel vervolmaakt hij zich in de keramiek en het glazuren.
+The skin of the construction:
+Sometimes the artist uses colored sand on a glue base or acrylics on ceramics, uses wax instead of enamel.
+As an alchemist he loves a touch of gold leaf here and there. 
+After careful consideration he selects materials, assembles them until birth comes, this in contrast with conceptual art.
+He is getting his inspiration from meticulously collected books, ethnography, and the mythology of many cultures he visited in his grand tours from Peru to Cambodia.
 
-Het amalgaam van dit alles is zich stilaan aan het convergeren naar zijn huidige werk; hij heeft eindelijk zijn draai gevonden: assemblage en mixed media!
-
-De attributen liggen netjes soort bij soort opgestapeld in Ikearekken in zijn atelier waarin hij accuraat alles weet te vinden. Als er toch een ontbrekende schakel is dan wordt die vervaardigd uit keramiek tot er een coherente assemblage ontstaat. Het uitdagende en boeiende van elke opdracht ligt in het feit dat er telkens moet nagedacht worden over het dragende geraamte (dikwijls draadstangen of spantenbouw met de figuurzaag in triplex vervaardigd) en de demonteerbaarheid van het geheel dat meestal fragiel is en evenzeer compact getransporteerd moet kunnen worden.
-
-Voor de afwerking van de "huid" van sommige werken wordt er gekleurd zand gestrooid op een lijmlaag. In plaats van glazuur wordt acrylverf gebruikt op keramiek dat nu eens geboend, dan weer vernist wordt.  
-Als een alchemist gebruikt hij graag een toetsje bladgoud als finishing touch, om het geheel te verrijken.
-
-Bij het ontwerp van een nieuw werk wordt er uitgegaan van de materialen. Er wordt geselecteerd, gewikt en gewogen, uitgestald en gepast tot er een geboorte volgt, dit in tegenstelling tot de conceptuele kunst.  
-Deze kunstenaar is helaas niet de man van "het woord", hij is een ambachtsman die het werk voor zich laat spreken en de toeschouwer verwonderd meesleurt in de bizarre wereld van zijn fantasie.
-
-Zijn inspiratie haalt hij uit minutieus verzamelde boekwerken (een grote bibliotheek, niet van literaire maar van doe - boeken met een keure aan illustraties). Ook uit etnografie en mythologie, van de vele oude en verre culturen. Magische ideeën worden gesprokkeld tijdens zijn wereldreizen in de vorm van foto’s en tekeningen gemaakt in talloze musea van Peru tot Cambodja. En niet te vergeten, het onuitputtelijke digitale medium: Pinterest.  
-Dit alles zwerft door de ideeën van de kunstenaar in een affiniteit met de Middeleeuwen en de Gotiek met daarbovenop zij idolen Jeroen Bosch, Dali en de surrealisten in het algemeen.
+Amongst his idols: Jeroen Bosch, Dali and other surrealists.
+He has also a great affinity to the middle ages and gothic art.
