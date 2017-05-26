@@ -133,6 +133,9 @@
 */
 .page-content {
   padding: 0 0 $spacing-unit 0;
+  .center-page {
+    max-width: 760px;
+  }
 }
 
 .page-heading {
