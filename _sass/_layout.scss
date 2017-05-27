@@ -28,6 +28,10 @@
     position: absolute;
     z-index: 1;
   }
+  @include media-query($on-small) {
+    line-height: 4.4em;
+    font-size: 1.8em;
+  }
 }
 
 .page-link {
