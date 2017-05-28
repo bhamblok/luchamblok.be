@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title: Sculptures
+title: Assemblages
 ref: gallery-page
-permalink: /fr/gallerie
+permalink: /fr/assemblages
 lang: fr
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Sculpturen
+title: Assemblages
 ref: gallery-page
 permalink: /
 lang: nl

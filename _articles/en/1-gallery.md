@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title: Sculptures
+title: Assemblies
 ref: gallery-page
-permalink: /en/gallery
+permalink: /en/assemblies
 lang: en
 ---
 
