@@ -6,18 +6,18 @@ permalink: /nl/contact
 lang: nl
 ---
 
-**Born**: 13-01-1951 Lommel, Belgium  
-**Lives**: Hoofdstraat 39, 3940 Hechtel-Eksel Belgium  
+**Geboren te**: 13-01-1951 Lommel, België  
+**Adres**: Hoofdstraat 39, 3940 Hechtel-Eksel België  
 **Tel**: +32 11 73 17 43  
 **Email**: [luc.hamblok@telenet.be](mailto:luc.hamblok@telenet.be)  
 
-**Artistic education:**
-- School of art of North Limburg in Lommel (youth section)
-- academy Mol: 3 years drawing
-- academy Heusden-Zolder
-  - painting: 7 years
-  - graphics: 3 years
-- initiation in ceramics Leopoldsburg and Zolder
+**Artistieke opleiding:**
+- Kunstschool Noord Limburg in Lommel (jongeren afdeling)
+- academie Mol: 3 jaar tekenen
+- academie Heusden-Zolder
+  - schildrene: 7 jaar
+  - grafisch: 3 jaar
+- initiatie in keramiek Leopoldsburg en Zolder
 
 <br>
 

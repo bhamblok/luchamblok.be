@@ -14,14 +14,14 @@
 # Site settings
 title: 
   nl: Luc Hamblok
-  fr: Luc Hamblok
+  #fr: Luc Hamblok
   en: Luc Hamblok
 email: luc.hamblok@telenet.be
 #description: > # this means to ignore newlines until "baseurl:"
 #  Evelyne Hamblok Architectuurproject
 description:
   nl: Luc Hamblok
-  fr: Luc Hamblok
+  #fr: Luc Hamblok
   en: Luc Hamblok
 #feed:
 #  nl: /rss.xml
