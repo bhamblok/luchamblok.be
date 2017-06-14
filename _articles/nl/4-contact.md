@@ -15,7 +15,7 @@ lang: nl
 - Kunstschool Noord Limburg in Lommel (jongeren afdeling)
 - academie Mol: 3 jaar tekenen
 - academie Heusden-Zolder
-  - schildrene: 7 jaar
+  - schilderen: 7 jaar
   - grafisch: 3 jaar
 - initiatie in keramiek Leopoldsburg en Zolder
 
