@@ -17,8 +17,11 @@ lang: nl
 - academie Heusden-Zolder
   - schilderen: 7 jaar
   - grafisch: 3 jaar
-- initiatie in keramiek Leopoldsburg en Zolder
+- initiatie in keramiek Leopoldsburg en Zolder  
+
+[onlinekunstenaars.nl](http://www.onlinekunstenaars.nl/)
 
 <br>
 
 <img src="/assets/DSC08551.jpg" width="550" alt="Luc Hamblok" title="Luc Hamblok" align="left"> 
+
