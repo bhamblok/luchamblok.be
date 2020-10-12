@@ -19,7 +19,7 @@ lang: nl
   - grafisch: 3 jaar
 - initiatie in keramiek Leopoldsburg en Zolder  
 
-[onlinekunstenaars.nl](http://www.onlinekunstenaars.nl/)
+<a href="http://www.onlinekunstenaars.nl/" target="_blank" rel="noopener" rel="noreferrer">onlinekunstenaars.nl</a>
 
 <br>
 
