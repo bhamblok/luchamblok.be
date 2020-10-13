@@ -11,6 +11,8 @@ lang: nl
 **Tel**: +32 11 73 17 43  
 **Email**: [luc.hamblok@telenet.be](mailto:luc.hamblok@telenet.be)  
 
+<a href="http://www.onlinekunstenaars.nl/" target="_blank" rel="noopener" rel="noreferrer">onlinekunstenaars.nl</a>  
+
 **Artistieke opleiding:**
 - Kunstschool Noord Limburg in Lommel (jongeren afdeling)
 - academie Mol: 3 jaar tekenen
@@ -18,8 +20,6 @@ lang: nl
   - schilderen: 7 jaar
   - grafisch: 3 jaar
 - initiatie in keramiek Leopoldsburg en Zolder  
-
-<a href="http://www.onlinekunstenaars.nl/" target="_blank" rel="noopener" rel="noreferrer">onlinekunstenaars.nl</a>
 
 <br>
 

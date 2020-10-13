@@ -9,7 +9,9 @@ lang: en
 **Born**: 13-01-1951 Lommel, Belgium  
 **Lives**: Hoofdstraat 39, 3940 Hechtel-Eksel Belgium  
 **Tel**: +32 11 73 17 43  
-**Email**: [luc.hamblok@telenet.be](mailto:luc.hamblok@telenet.be)  
+**Email**: [luc.hamblok@telenet.be](mailto:luc.hamblok@telenet.be)    
+
+<a href="http://www.onlinekunstenaars.nl/" target="_blank" rel="noopener" rel="noreferrer">onlinekunstenaars.nl</a>  
 
 **Artistic education:**
 - School of art of North Limburg in Lommel (youth section)
