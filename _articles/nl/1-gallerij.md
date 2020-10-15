@@ -13,7 +13,7 @@ lang: nl
   {% assign title = title.last | split: '.' %}
   {% assign title = title.first | split: ' - ' %}
   <a href="JavaScript:void(0);" class="grid-item">
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ title.last }}" title="{{ title.last }}" />
+    <img src="{{ site.baseurl }}{{ image.path | replace:'\'','%27' }}" alt="{{ title.last }}" title="{{ title.last }}" />
     <div class="title">{{ title.last }}</div>
   </a>
   {% endif %}
