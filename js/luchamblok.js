@@ -50,7 +50,8 @@ document.addEventListener("DOMContentLoaded", function(e) {
             // }
             zoom.removeEventListener('click', closeZoom);
             document.body.classList.toggle('zoom');
-            window.scrollTo(0,scrollToY);
+            console.log(scrollToY);
+            window.scrollTo(0, scrollToY);
           }
           document.body.classList.toggle('zoom');
           zoom.addEventListener('click', closeZoom);
