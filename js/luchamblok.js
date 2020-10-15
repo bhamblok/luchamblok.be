@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function(e) {
     var loaded = 0;
     var msnry = null;
     for (var i=0; i<gridItems.length; i++) {
-      const gridItem = gridItems[i];
+      var gridItem = gridItems[i];
       gridItem.addEventListener('load', function(e) {
         loaded++;
         if (loaded === gridItems.length - 1) {
@@ -13,10 +13,10 @@ document.addEventListener("DOMContentLoaded", function(e) {
         }
       });
       gridItem.parentNode.addEventListener('click', function(e) {
-        const scrollToY = window.scrollY;
+        var scrollToY = window.scrollY;
         document.querySelector('#zoom .title').innerHTML = e.target.closest('.grid-item').querySelector('.title').innerHTML
-        const zoom = document.querySelector('#zoom');
-        const img = document.querySelector('#zoom img');
+        var zoom = document.querySelector('#zoom');
+        var img = document.querySelector('#zoom img');
         zoom.replaceChild(gridItem.cloneNode(true), img);
         setTimeout(function() {
           function closeZoom(e) {
