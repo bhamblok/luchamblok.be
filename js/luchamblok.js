@@ -1,11 +1,11 @@
-document.addEventListener("DOMContentLoaded", function(e) {
+function init() {
   var gridItems = document.querySelectorAll('.grid-item img');
   if (gridItems.length) {
     var loaded = 0;
     var msnry = null;
     for (var i=0; i<gridItems.length; i++) {
       var gridItem = gridItems[i];
-      gridItem.addEventListener('load', function(e) {
+      gridItem.addEventListener('load', function() {
         loaded++;
         if (loaded === gridItems.length - 1) {
           if (msnry !== null) msnry.layout();
@@ -19,10 +19,9 @@ document.addEventListener("DOMContentLoaded", function(e) {
         var img = document.querySelector('#zoom img');
         zoom.replaceChild(gridItem.cloneNode(true), img);
         setTimeout(function() {
-          function closeZoom(e) {
+          function closeZoom() {
             zoom.removeEventListener('click', closeZoom);
             document.body.classList.toggle('zoom');
-            console.log(scrollToY);
             window.scrollTo(0, scrollToY);
           }
           document.body.classList.toggle('zoom');
@@ -33,3 +32,9 @@ document.addEventListener("DOMContentLoaded", function(e) {
     msnry = new Masonry( '.grid', { itemSelector: '.grid-item' });
   }
 });
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init);
+} else {
+  init();
+}
