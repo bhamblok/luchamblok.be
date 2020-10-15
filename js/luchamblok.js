@@ -22,14 +22,15 @@ document.addEventListener("DOMContentLoaded", function(e) {
     var loaded = 0;
     var msnry = null;
     for (var i=0; i<gridItems.length; i++) {
-      gridItems[i].addEventListener('load', function(e) {
+      const gridItem = gridItems[i];
+      gridItem.addEventListener('load', function(e) {
         loaded++;
         if (loaded === gridItems.length - 1) {
           if (msnry !== null) msnry.layout();
           document.querySelector('article.loading').classList.remove('loading');
         }
       });
-      gridItems[i].parentNode.addEventListener('click', function(e) {
+      gridItem.parentNode.addEventListener('click', function(e) {
         scrollToY = document.body.scrollTop;
         // var bounds = e.target.getBoundingClientRect();
         // var zoom = document.querySelector('#zoom');
@@ -37,19 +38,25 @@ document.addEventListener("DOMContentLoaded", function(e) {
         // zoom.style.height = bounds.height+'px';
         // zoom.style.left = bounds.left+'px';
         document.querySelector('#zoom .title').innerHTML = e.target.closest('.grid-item').querySelector('.title').innerHTML
-        document.querySelector('#zoom img').src = e.target.closest('.grid-item').querySelector('img').src;
+        const zoom = document.querySelector('#zoom');
+        const img = document.querySelector('#zoom img');
+        zoom.replaceChild(gridItem.cloneNode(true), img);
+        // console.log(gridItem);
+        // document.querySelector('#zoom img').src = e.target.closest('.grid-item').querySelector('img').src;
         setTimeout(function() {
+          function closeZoom(e) {
+            // if (document.body.classList.contains('zoom')) {
+            //   document.querySelector('#zoom').removeAttribute('style');
+            // }
+            zoom.removeEventListener('click', closeZoom);
+            document.body.classList.toggle('zoom');
+            window.scrollTo(0,scrollToY);
+          }
           document.body.classList.toggle('zoom');
+          zoom.addEventListener('click', closeZoom);
         }, 0);
       });
     }
-    document.querySelector('#zoom').addEventListener('click', function(e) {
-      if (document.body.classList.contains('zoom')) {
-        document.querySelector('#zoom').removeAttribute('style');
-      }
-      document.body.classList.toggle('zoom');
-      window.scrollTo(0,scrollToY);
-    });
     msnry = new Masonry( '.grid', { itemSelector: '.grid-item' });
   }
 });
