@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function(e) {
         }
       });
       gridItem.parentNode.addEventListener('click', function(e) {
-        scrollToY = document.body.scrollTop;
+        scrollToY = window.scrollY;
         // var bounds = e.target.getBoundingClientRect();
         // var zoom = document.querySelector('#zoom');
         // zoom.style.width = bounds.width+'px';
