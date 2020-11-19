@@ -31,7 +31,7 @@ function init() {
     }
     msnry = new Masonry( '.grid', { itemSelector: '.grid-item' });
   }
-});
+}
 
 if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', init);
